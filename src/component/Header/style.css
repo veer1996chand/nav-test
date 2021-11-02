@@ -1,0 +1,25 @@
+.ac-globalnav {
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 9999;
+  display: block;
+  margin: 0;
+  width: 100%;
+  min-width: 1024px;
+  height: 48px;
+  max-height: 44px;
+  background: rgba(0, 0, 0, 0.8);
+  font-size: 17px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.text-color {
+  color: aliceblue;
+  text-decoration: none;
+}
+.text-color:hover {
+  color: aliceblue;
+}
